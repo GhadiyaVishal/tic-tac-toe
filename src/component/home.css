@@ -1,0 +1,21 @@
+/* flex align-top justify-center font-bold */
+.container{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+/* .header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+} */
+table td{
+    
+    /* position: relative; */
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    align-items: center;
+    
+}
